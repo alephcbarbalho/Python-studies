@@ -13,9 +13,6 @@ product3_price = 52.15
 
 sales_tax = .088
 
-customer_cart = ""
-customer_account = 0
-
 greeting_part1 = "Hello and welcome to our Furniture Store! What is your name?"
 print(greeting_part1)
 customer_name = input("Please, share your name with us: ")
